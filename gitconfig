@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = atagodfrey@gmail.com
+	name = Anna Godfrey
